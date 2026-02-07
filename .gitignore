@@ -26,3 +26,6 @@ lcov.info
 coverage.xml
 
 .vscode/
+
+sample_data/
+sample_data.zip
